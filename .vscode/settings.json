@@ -1,0 +1,5 @@
+{
+  "editor.codeActionsOnSave": ["source.formatDocument"],
+  "editor.formatOnSave": true,
+  "jest.autoRun": "off"
+}
