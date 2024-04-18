@@ -7,6 +7,12 @@
   "scripts": {
     "test": "jest"
   },
+  "engines": {
+    "node": "20.12.2"
+  },
+  "volta": {
+    "node": "20.12.2"
+  },
   "author": "Septianata Rizky Pratama",
   "license": "MIT",
   "devDependencies": {
