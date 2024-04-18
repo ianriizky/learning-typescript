@@ -1,7 +1,7 @@
 {
-  "name": "ianriizky-typescript",
+  "name": "@ianriizky/learning-typescript",
   "version": "1.0.0",
-  "description": "Learn TypeScript.",
+  "description": "Learn TypeScript language.",
   "main": "index.js",
   "type": "module",
   "scripts": {
