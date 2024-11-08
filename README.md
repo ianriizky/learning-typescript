@@ -50,7 +50,7 @@ The MIT License (MIT). Please see [License File][license-url] for more informati
 [license-url]: LICENSE.md
 [release-image]: https://badgen.net/github/release/ianriizky/learning-typescript
 [release-url]: https://github.com/ianriizky/learning-typescript/releases
-[test-status-image]: https://github.com/ianriizky/learning-typescript/actions/workflows/nodejs-ci.yml/badge.svg
-[test-status-url]: https://github.com/ianriizky/learning-typescript/actions/workflows/nodejs-ci.yml
+[test-status-image]: https://github.com/ianriizky/learning-typescript/actions/workflows/main.yml/badge.svg
+[test-status-url]: https://github.com/ianriizky/learning-typescript/actions/workflows/main.yml
 [coverage-status-image]: https://codecov.io/gh/ianriizky/learning-typescript/graph/badge.svg?token=CTSUU5QR0V
 [coverage-status-url]: https://codecov.io/gh/ianriizky/learning-typescript
