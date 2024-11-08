@@ -12,3 +12,4 @@ All notable changes to `@ianriizky/learning-typescript` will be documented in th
 - chore: setup eslint and prettier by [@ianriizky](https://github.com/ianriizky) in [#afd7eb9](https://github.com/ianriizky/learning-typescript/commit/afd7eb954e632f9e88da2cc74164957827918ff4).
 - chore: set node version using 20.12.2 by [@ianriizky](https://github.com/ianriizky) in [#5a94a9f](https://github.com/ianriizky/learning-typescript/commit/5a94a9f1f346e444171751acbeaff324ac5f4b6e).
 - refactor: use node version 22.11.0 and new ci/cd scheme by [@ianriizky](https://github.com/ianriizky) in [#74b074f](https://github.com/ianriizky/learning-typescript/commit/74b074f6bee90edeb47120a4ae391fac975df470).
+- docs: change test status badge image and url on readme by [@ianriizky](https://github.com/ianriizky) in [#1ed0722](https://github.com/ianriizky/learning-typescript/commit/1ed072218d3bbf7b3fa66b88ad8f2c0ab5e30f5b).
