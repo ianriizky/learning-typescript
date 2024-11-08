@@ -1,8 +1,9 @@
 # @ianriizky/learning-typescript
 
-[![Build Status][build-status-image]][build-status-url]
-[![Coverage Status][coverage-status-image]][coverage-status-url]
 [![License][license-image]][license-url]
+[![Release][release-image]][release-url]
+[![Test Status][test-status-image]][test-status-url]
+[![Coverage Status][coverage-status-image]][coverage-status-url]
 
 Learn TypeScript language.
 
@@ -12,14 +13,13 @@ Learn TypeScript language.
   - [Table of Contents](#table-of-contents)
   - [Requirement](#requirement)
   - [Installation](#installation)
-  - [Running in Development Environment](#running-in-development-environment)
   - [Testing](#testing)
   - [Changelog](#changelog)
   - [License](#license)
 
 ## Requirement
 
-- Node.js 20.12.2
+- [![Node.js](https://img.shields.io/badge/Node.js%20^22.11.0-43853D?logo=node.js&logoColor=white "Node.js")](https://nodejs.org)
 
 ## Installation
 
@@ -30,15 +30,9 @@ git clone https://github.com/ianriizky/learning-typescript.git
 npm install
 ```
 
-## Running in Development Environment
-
-You can run this application lively by running this script :
-
-```bash
-npm run dev
-```
-
 ## Testing
+
+Run this command below to execute all test script using [Jest](https://jestjs.io).
 
 ```bash
 npm run test
@@ -52,9 +46,11 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 
 The MIT License (MIT). Please see [License File][license-url] for more information.
 
-[build-status-image]: https://github.com/ianriizky/learning-typescript/actions/workflows/nodejs-ci.yml/badge.svg
-[build-status-url]: https://github.com/ianriizky/learning-typescript/actions/workflows/nodejs-ci.yml
-[coverage-status-image]: https://codecov.io/gh/ianriizky/learning-typescript/branch/main/graph/badge.svg
-[coverage-status-url]: https://codecov.io/gh/ianriizky/learning-typescript
 [license-image]: https://badgen.net/github/license/ianriizky/learning-typescript
 [license-url]: LICENSE.md
+[release-image]: https://badgen.net/github/release/ianriizky/learning-typescript
+[release-url]: https://github.com/ianriizky/learning-typescript/releases
+[test-status-image]: https://github.com/ianriizky/learning-typescript/actions/workflows/nodejs-ci.yml/badge.svg
+[test-status-url]: https://github.com/ianriizky/learning-typescript/actions/workflows/nodejs-ci.yml
+[coverage-status-image]: https://codecov.io/gh/ianriizky/learning-typescript/graph/badge.svg?token=CTSUU5QR0V
+[coverage-status-url]: https://codecov.io/gh/ianriizky/learning-typescript

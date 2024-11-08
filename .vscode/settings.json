@@ -6,7 +6,6 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.formatOnSave": true,
   "eslint.probe": ["javascript", "typescript", "markdown"],
-  "jest.runMode": {
-    "type": "on-demand"
-  }
+  "jest.runMode": "on-demand",
+  "typescript.tsdk": "node_modules/typescript/lib"
 }
